@@ -6,6 +6,6 @@ public class TestClass {
 		System.out.println("you");
 		System.out.println("I");
 		System.out.println("am");
-		System.out.println("fine.");
+		System.out.println("fine");
 	}
 }
