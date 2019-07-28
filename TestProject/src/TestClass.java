@@ -4,7 +4,7 @@ public class TestClass {
 		System.out.println("How r u");
 		System.out.println("r");
 		System.out.println("you");
-		System.out.println("friend");
+		System.out.println("dost");
 		System.out.println("I");
 		System.out.println("am");
 		System.out.println("fine");
